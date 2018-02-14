@@ -1,0 +1,15 @@
+body {
+  background: white; }
+
+/****LEVELS LIST STYLES*****/
+.hideLevelsList {
+  display: none; }
+
+.displayLevelsList {
+  display: block; }
+
+/*****DIESEASE LIST STYLES*****/
+.hideDiseaseList {
+  display: none; }
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJidW5kbGUuY3NzIiwic291cmNlUm9vdCI6IiJ9*/
